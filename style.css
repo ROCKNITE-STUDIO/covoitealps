@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6; /* Améliorer la lisibilité du texte */
+    background-color: #000000; /* Couleur de fond pour le body */
+    color: #ffffff; /* Couleur du texte */
+    padding: 20px; /* Ajouter un peu de padding autour du contenu principal */
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    position: relative; /* Permet le positionnement absolu des éléments enfants */
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px; /* Ajout d'une marge supérieure pour espacer le titre */
+}
+
+#devby {
+    margin-bottom: 20px; /* Ajout d'une marge inférieure pour espacer le titre */
+    text-align: center;
+}
+
+.container {
+    max-width: 412px; /* Largeur maximale pour le conteneur */
+    width: 100%; /* Assurer que le conteneur utilise toute la largeur disponible jusqu'à la largeur maximale */
+    padding: 20px; /* Espacement intérieur pour le conteneur */
+    background-color: #2e2d2d; /* Fond gris foncé pour le conteneur */
+    border-radius: 8px; /* Coins arrondis */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ombre légère pour donner de la profondeur */
+    color: #ffffff; /* Couleur du texte pour contraster avec le fond du conteneur */
+    margin-bottom: 20px; /* Espacement inférieur pour séparer les conteneurs */
+}
+
+.result {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btnadd {
+    background-color: #2e2d2d; /* Couleur de fond pour le bouton */
+    border: 0;
+    border-radius: 10px;
+}
+
+.btnreload {
+    position: fixed; /* Fixer le bouton en haut à droite de la fenêtre */
+    top: 20px; /* Espacement du haut */
+    right: 20px; /* Espacement de la droite */
+    background-color: #2e2d2d; /* Couleur de fond pour le bouton */
+    border: 0;
+    border-radius: 10px;
+    width: 40px; /* Largeur fixe pour le bouton */
+    height: 40px; /* Hauteur fixe pour le bouton */
+    display: flex; /* Utiliser Flexbox pour centrer l'image */
+    align-items: center;
+    justify-content: center;
+    z-index: 1000; /* Assurer que le bouton reste au-dessus des autres éléments */
+}
+
+img.reload {
+    width: 24px; /* Réduire la largeur de l'image */
+    height: 24px; /* Réduire la hauteur de l'image */
+}
+
+.divbtn {
+    margin-top: auto;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    max-width: 50%;
+}
+
+img.reload {
+    height: auto;
+    max-width: 100%;
+}
