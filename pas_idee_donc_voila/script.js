@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
         return;
     }
 
-    fetch('../data.json')
+    fetch('https://covoitealps.serveo.net/data.json')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Erreur de chargement du fichier JSON');
