@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (btnReload) {
         btnReload.addEventListener('click', () => {
-            fetch('/data.json', { cache: 'reload' })
+            fetch('https://covoitealps.serveo.net/data.json', { cache: 'reload' })
                 .then(response => {
                     if (!response.ok) {
                         throw new Error('Erreur lors du chargement du fichier JSON');
