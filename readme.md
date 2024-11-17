@@ -7,3 +7,7 @@
 - [ ] système de connexion
   - [ ] simplifier
   - [ ] ROCKNITE LOGIN 
+
+# Statut du développement 
+40% environ 
+accéder au news
