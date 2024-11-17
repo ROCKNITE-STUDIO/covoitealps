@@ -10,4 +10,4 @@
 
 # Statut du développement 
 40% environ 
-accéder au news
+[Accéder au news](https://rocknite-studio.github.io/covoitealps/news)
