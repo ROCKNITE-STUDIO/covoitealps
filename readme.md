@@ -1,13 +1,14 @@
 # ROADMAP
 - [ ] language
-  - [x] Français
+  - [ ] Français
   - [ ] Anglais
 - [ ] système de calendrier
-- [x] système d'ajout de points
+- [ ] système d'ajout de points
 - [ ] système de connexion
   - [ ] simplifier
   - [ ] ROCKNITE LOGIN 
 
 # Statut du développement 
-40% environ 
+0% environ 
+Je re développe tout 💀
 [Accéder au news](https://rocknite-studio.github.io/covoitealps/news)
