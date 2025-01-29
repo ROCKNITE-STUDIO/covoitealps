@@ -1,12 +1,12 @@
 [
   {
-    "title": "Développement update"
-    "date" : "2025-29-01"
+    "title": "Développement update",
+    "date": "2025-01-29",
     "content": "Je re développe tout de 0, plus optimiser, plus stylisée, bref en BEAUCOUP MIEUX !"
   },
   {
     "title": "Déplacement de l'application vers GITHUB",
     "date": "2024-11-11",
-    "content": "J'ai déplacer l'application de mon RPI a GITHUB. Version web de l'application : rocknite-studio.github.io/covoitealps"
+    "content": "J'ai déplacé l'application de mon RPI à GITHUB. Version web de l'application : rocknite-studio.github.io/covoitealps"
   }
 ]
