@@ -2,11 +2,21 @@
 - [ ] language
   - [ ] Français
   - [ ] Anglais
-- [ ] système de calendrier
-- [ ] système d'ajout de points
-- [ ] système de connexion
-  - [ ] simplifier
-  - [ ] ROCKNITE LOGIN 
+- [ ] pages
+  - [x] acceuil
+    - [x] voir les trajets que l'on as (conducteur et passager) pour la semaine
+  - [ ] calendrier
+    - [ ] mettre nos disponibilités
+    - [ ] voir tout les trajets que l'on as
+  - [ ] points
+    - [ ] ajouter un point de départ/arrivé 
+    - [ ] voir les points de départ/arrivé
+  - [ ] compte
+    - [ ] connexion
+    - [ ] déconnexion
+  - [ ] aide
+    - [ ] documentation de l'appli, de ses fonctions, etc
+
 
 # Statut du développement 
 30% environ 
