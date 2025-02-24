@@ -9,6 +9,6 @@
   - [ ] ROCKNITE LOGIN 
 
 # Statut du développement 
-0% environ 
-Je re développe tout 💀
+30% environ 
+site accessible a https://covoitealps.serveo.net
 [Accéder au news](https://rocknite-studio.github.io/covoitealps/news)
